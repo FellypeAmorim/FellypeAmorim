@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About Me 😎
+
+  My name is Fellype and i'm a tech lover, i just discovered this passion.
+
 <!--
 **FellypeAmorim/FellypeAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
