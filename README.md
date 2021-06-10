@@ -4,7 +4,7 @@
 
    My name is Fellype and i'm a tech lover, i've just discovered this passion and now i'm studying and improving myself everyday. I'm 32 years old and i'm on first year in Analysis and Sistems Development.
    I finished a C# course and now i'm studying HTML.<br>
-   <img src:"https://img.shields.io/badge/C%23-VisualStudio-blue" />
+   <img src="https://img.shields.io/badge/C%23-VisualStudio-blue">
 
 <!--
 **FellypeAmorim/FellypeAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
