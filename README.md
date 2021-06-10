@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## About Me 😎
+## About Me 😎<hr>
 
    My name is Fellype and i'm a tech lover, i've just discovered this passion and now i'm studying and improving myself everyday. I'm 32 years old and i'm on first year in Analysis and Sistems Development.
    I finished a C# course and now i'm studying HTML.<br>
    <img src="https://img.shields.io/badge/C%23-VisualStudio-blue">
-   <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange">
+   <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange"><br><br>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim)](https://github.com/anuraghazra/github-readme-stats)
 
 
