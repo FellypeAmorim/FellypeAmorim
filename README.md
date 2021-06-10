@@ -8,7 +8,10 @@
    <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange"><br><br>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim&hide=contribs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeAmorim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-   You can find me on [![LinkedIn][https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png]][https://linkedin.com].
+   You can find me on [![LinkedIn][1.2]][1].
+   [1]: https://www.linkedin.com/in/heinz-martin/
+   [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 
 <!--
 **FellypeAmorim/FellypeAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
