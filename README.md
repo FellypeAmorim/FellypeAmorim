@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/C%23-VisualStudio-blue">
    <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange"><br><br>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim&hide=contribs&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-   You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+   You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
