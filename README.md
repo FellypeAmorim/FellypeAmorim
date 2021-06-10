@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/C%23-VisualStudio-blue">
    <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange"><br><br>
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FellypeAmorim)]
 
 
 <!--
