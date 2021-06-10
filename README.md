@@ -6,7 +6,7 @@
    I finished a C# course and now i'm studying HTML.<br>
    <img src="https://img.shields.io/badge/C%23-VisualStudio-blue">
    <img src="https://img.shields.io/badge/HTML-Sublime%20Text%203-orange"><br><br>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellypeAmorim&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
